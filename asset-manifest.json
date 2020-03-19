@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gonzalojbueno/portfolio-cv-app/static/css/main.c8f1e3a5.chunk.css",
+    "main.js": "/gonzalojbueno/portfolio-cv-app/static/js/main.d16a8a77.chunk.js",
+    "main.js.map": "/gonzalojbueno/portfolio-cv-app/static/js/main.d16a8a77.chunk.js.map",
+    "runtime-main.js": "/gonzalojbueno/portfolio-cv-app/static/js/runtime-main.3e4349e9.js",
+    "runtime-main.js.map": "/gonzalojbueno/portfolio-cv-app/static/js/runtime-main.3e4349e9.js.map",
+    "static/js/2.f3306f38.chunk.js": "/gonzalojbueno/portfolio-cv-app/static/js/2.f3306f38.chunk.js",
+    "static/js/2.f3306f38.chunk.js.map": "/gonzalojbueno/portfolio-cv-app/static/js/2.f3306f38.chunk.js.map",
+    "index.html": "/gonzalojbueno/portfolio-cv-app/index.html",
+    "precache-manifest.7f008cb83a43589adcb231b028656816.js": "/gonzalojbueno/portfolio-cv-app/precache-manifest.7f008cb83a43589adcb231b028656816.js",
+    "service-worker.js": "/gonzalojbueno/portfolio-cv-app/service-worker.js",
+    "static/css/main.c8f1e3a5.chunk.css.map": "/gonzalojbueno/portfolio-cv-app/static/css/main.c8f1e3a5.chunk.css.map",
+    "static/js/2.f3306f38.chunk.js.LICENSE.txt": "/gonzalojbueno/portfolio-cv-app/static/js/2.f3306f38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e4349e9.js",
+    "static/js/2.f3306f38.chunk.js",
+    "static/css/main.c8f1e3a5.chunk.css",
+    "static/js/main.d16a8a77.chunk.js"
+  ]
+}
